@@ -1,0 +1,8 @@
+# Ignore log
+*.log
+
+# Ignore Python byte code
+*.pyc
+
+# Ignore downloaded files
+dl/*

@@ -1,0 +1,6 @@
+http://dewasoft.com/privacy/kldetector13.zip
+http://www.symantec.com/content/en/us/global/removal_tool/threat_writeups/FixEzula.exe
+http://www.symantec.com/content/en/us/global/removal_tool/threat_writeups/fixhappy.exe
+http://nirsoft.net/utils/searchmyfiles-x64.zip
+http://www.symantec.com/content/en/us/global/removal_tool/threat_writeups/FxAntiny.exe
+http://nirsoft.net/utils/networktrafficview-x64.zip

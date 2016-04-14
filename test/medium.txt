@@ -1,0 +1,6 @@
+http://download.piriform.com/ccsetup_514.exe
+http://7-zip.org/a/7z1514-x64.exe
+http://www.driveridentifier.com/files/driveridentifier_setup.exe
+http://ftp.heanet.ie/pub/OpenBSD/OpenSSH/portable/openssh-7.1p2.tar.gz
+http://www.wisecleaner.com/soft/WiseCare365.exe
+http://download.xnview.com/XnView-win-small.exe

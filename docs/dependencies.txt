@@ -1,0 +1,6 @@
+#== Dependencies ==
+
+sudo apt-get install gnuplot gnuplot-x11 gnuplot-doc -y
+
+sudo apt-get install python-dev python-pip libmysqlclient-dev -y
+sudo pip install statistics
